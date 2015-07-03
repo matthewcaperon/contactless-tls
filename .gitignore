@@ -8,3 +8,5 @@ lib-cltls/nbproject/private/private.xml
 /lib-cltls/build/
 /lib-cltls/dist/
 /card-drivers/smartcardio-sample/nbproject/private/
+/usage-samples/smartcardio-sample/nbproject/private/
+usage-samples/smartcardio-sample/nbproject/private/private.properties
