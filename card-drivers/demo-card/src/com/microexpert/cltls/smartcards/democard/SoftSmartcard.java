@@ -5,8 +5,8 @@
  */
 package com.microexpert.cltls.smartcards.democard;
 
-import com.microexpert.microkey.core.Smartcard;
-import com.microexpert.microkey.core.util.Util;
+import com.microexpert.cltls.core.Smartcard;
+import com.microexpert.cltls.core.util.Util;
 import java.io.IOException;
 import java.math.BigInteger;
 import java.util.logging.Level;

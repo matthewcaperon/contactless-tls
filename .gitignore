@@ -4,3 +4,6 @@ nbproject/private/private.properties
 lib-cltls/nbproject/private/private.properties
 lib-cltls/nbproject/private/private.xml
 /card-drivers/demo-card/nbproject/private/
+/lib-cltls/nbproject/private/
+/lib-cltls/build/
+/lib-cltls/dist/
