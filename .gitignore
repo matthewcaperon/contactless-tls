@@ -20,3 +20,4 @@ docs/~$Diag2.docx
 /card-drivers/softcard/nbproject/private/
 /card-drivers/softcard/dist/
 /card-drivers/softcard/build/
+*.key
