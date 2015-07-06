@@ -7,7 +7,9 @@ package com.microexpert.cltls.samples.desktopsample;
 
 import com.microexpert.cltls.core.Smartcard;
 import com.microexpert.cltls.core.SmartcardTlsClient;
+import com.microexpert.cltls.smartcards.mxkey.Microkey;
 import com.microexpert.cltls.smartcards.softcard.SoftCard;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
