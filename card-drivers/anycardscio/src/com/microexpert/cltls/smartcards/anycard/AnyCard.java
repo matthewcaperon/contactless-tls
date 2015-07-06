@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.microexpert.cltls.smartcards.democard;
+package com.microexpert.cltls.smartcards.anycard;
 
 import com.microexpert.cltls.core.Smartcard;
 import com.microexpert.cltls.core.util.Util;
@@ -22,7 +22,7 @@ import org.spongycastle.crypto.tls.Certificate;
  *
  * @author John
  */
-public class SoftSmartcard implements Smartcard {
+public class AnyCard implements Smartcard {
     private AsymmetricBlockCipher   engine = new PKCS1Encoding(new RSABlinder());
     private AsymmetricKeyParameter  key;
     private Certificate             certificate;

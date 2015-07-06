@@ -11,3 +11,8 @@ lib-cltls/nbproject/private/private.xml
 /usage-samples/smartcardio-sample/nbproject/private/
 usage-samples/smartcardio-sample/nbproject/private/private.properties
 docs/~$Diag2.docx
+/card-drivers/demo-card/build/
+/card-drivers/demo-card/dist/
+/card-drivers/anycardscio/nbproject/private/
+/card-drivers/anycardscio/dist/
+/card-drivers/anycardscio/build/

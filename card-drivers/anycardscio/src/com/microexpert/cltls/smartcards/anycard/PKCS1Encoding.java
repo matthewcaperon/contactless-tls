@@ -1,4 +1,4 @@
-package com.microexpert.cltls.smartcards.democard;
+package com.microexpert.cltls.smartcards.anycard;
 
 import java.security.AccessController;
 import java.security.PrivilegedAction;

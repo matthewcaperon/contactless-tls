@@ -13,9 +13,8 @@ import org.spongycastle.crypto.tls.Certificate;
  *
  * @author John
  */
-public interface Smartcard { //RSA MicroKey Smartcard
+public interface Smartcard { //TLSCardDriver
     
-    //public int getKeySize();
     // TODO: remove offset and length, are they used?
     public byte[] encryptBlock(byte[] bytes, int i, int i1) throws IOException;
     public Certificate getClientCertificate() throws IOException;
