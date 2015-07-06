@@ -1,4 +1,4 @@
-package com.microexpert.cltls.smartcards.anycard;
+package com.microexpert.cltls.smartcards.softcard;
 
 import java.security.AccessController;
 import java.security.PrivilegedAction;

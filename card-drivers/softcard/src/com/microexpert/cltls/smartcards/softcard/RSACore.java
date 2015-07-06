@@ -1,4 +1,4 @@
-package com.microexpert.cltls.smartcards.anycard;
+package com.microexpert.cltls.smartcards.softcard;
 
 import org.spongycastle.crypto.CipherParameters;
 import org.spongycastle.crypto.DataLengthException;

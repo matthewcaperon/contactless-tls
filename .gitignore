@@ -16,3 +16,7 @@ docs/~$Diag2.docx
 /card-drivers/anycardscio/nbproject/private/
 /card-drivers/anycardscio/dist/
 /card-drivers/anycardscio/build/
+/usage-samples/smartcardio-sample/build/
+/card-drivers/softcard/nbproject/private/
+/card-drivers/softcard/dist/
+/card-drivers/softcard/build/

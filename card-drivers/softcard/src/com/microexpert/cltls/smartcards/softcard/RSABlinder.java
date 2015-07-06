@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.microexpert.cltls.smartcards.anycard;
+package com.microexpert.cltls.smartcards.softcard;
 
 import java.math.BigInteger;
 import java.security.SecureRandom;
