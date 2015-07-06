@@ -70,6 +70,8 @@ public class DesktopClient {
                     Files.readAllBytes(clientKeyFile.toPath()), 
                     Files.readAllBytes(clientCertFile.toPath()));
 
+            // For MicroKey Card
+            //Microkey smartcard = new Microkey(terminals.get(0));
 
             // Generate Random Number
             SecureRandom secureRandom = new SecureRandom();
