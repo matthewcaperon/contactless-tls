@@ -54,7 +54,7 @@ public class DesktopClient {
         
         // TLS Remote Host
         // Replace with you own TLS servers address
-        String host = "sitea.tibado.com";       
+        String host = "ssl.microexpert.com";       
         Socket socket = new Socket(host, 443);
         
         // Get List of connected PC/SC smartcard readers
@@ -73,7 +73,7 @@ public class DesktopClient {
                     Files.readAllBytes(clientCertFile.toPath()));
 
             // For MicroKey Card
-            //Microkey smartcard = new Microkey(terminals.get(0));
+            //Smartcard smartcard = new Microkey(terminals.get(0));
 
             // Generate Random Number
             SecureRandom secureRandom = new SecureRandom();
@@ -89,7 +89,7 @@ public class DesktopClient {
 
             //////////////////////////////////////////////////
             OutputStream output = tlsClientProtocol.getOutputStream();
-            String reqHeader = "GET /info HTTP/1.1\r\nHost: " + host + "\r\nConnection: close\r\n\r\n";
+            String reqHeader = "GET / HTTP/1.1\r\nHost: " + host + "\r\nConnection: close\r\n\r\n";
             output.write(reqHeader.getBytes("UTF-8"));
 
             InputStream input = tlsClientProtocol.getInputStream();
