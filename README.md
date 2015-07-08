@@ -10,8 +10,8 @@ Please review the wiki pages for more infomation.
 - SoftCard driver ([softcard.jar](https://github.com/matthewcaperon/contactless-tls/blob/master/card-drivers/softcard/dist/softcard.jar?raw=true))
 
 Driver binaries for the MicroKey smart card:
-- MicroKey Java smart card IO driver ([mxkeyscio.jar](https://github.com/matthewcaperon/contactless-tls/blob/master/card-drivers/microkeyscio.jar?raw=true))
-- MicroKey Android NFC driver ([mxkeyanfc.jar](https://github.com/matthewcaperon/contactless-tls/blob/master/card-drivers/microkeyanfc.jar?raw=true))
+- MicroKey Java smart card IO driver ([microkeyscio.jar](https://github.com/matthewcaperon/contactless-tls/blob/master/card-drivers/microkeyscio.jar?raw=true))
+- MicroKey Android NFC driver ([microkeyanfc.jar](https://github.com/matthewcaperon/contactless-tls/blob/master/card-drivers/microkeyanfc.jar?raw=true))
 
 ### Getting Started
 See the sample walkthrough to [Get Started](https://github.com/matthewcaperon/contactless-tls/wiki/Sample-Walkthrough)  
