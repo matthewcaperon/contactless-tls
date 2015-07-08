@@ -1,5 +1,6 @@
 # contactless-tls
-A library to add client certificate authentication using a contactless smart card over a tls/ssl connection.
+This library adds client certificate authentication, using a contactless smart card, over a TLS/SSL connection.
+
 Please review the wiki pages for more infomation.
 
 ###Latest Binaries
@@ -8,7 +9,7 @@ Please review the wiki pages for more infomation.
 - Contactless-TLS library ([contactless-tls.jar](https://github.com/matthewcaperon/contactless-tls/blob/master/lib-cltls/dist/contactless-tls.jar?raw=true))
 - SoftCard driver ([softcard.jar](https://github.com/matthewcaperon/contactless-tls/blob/master/card-drivers/softcard/dist/softcard.jar?raw=true))
 
-Binary for MicroKey Driver:
+Binary for MicroKey Smart Card driver:
 - MicroKey driver ([mxkeyscio.jar](https://github.com/matthewcaperon/contactless-tls/blob/master/card-drivers/mxkeyscio.jar?raw=true))
 
 ### Getting Started
